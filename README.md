@@ -1,6 +1,6 @@
-# Eric Zanardi | Full Stack Developer
-### Founder at ZND — *From Factory Floor to the Cloud*
-### IT Consultant at TecLink Automação Industrial.
+Hey! I'm a Full Stack Developer and currently working at:
+### ZND — *From Factory Floor to the Cloud* as Founder;
+###  TecLink Automação Industrial as IT Consultant.
 
 🚀 Delivering robust, scalable solutions that connect complex systems and optimize business operations.
 
