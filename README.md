@@ -1,5 +1,6 @@
 # Eric Zanardi | Full Stack Developer
 ### Founder at ZND — *From Factory Floor to the Cloud*
+### IT Consultant at TecLink Automação Industrial.
 
 🚀 Delivering robust, scalable solutions that connect complex systems and optimize business operations.
 
@@ -16,7 +17,7 @@ Experienced Full Stack Developer focused on enterprise applications for logistic
 - Backend: Python (Flask), Java (Spring Boot), C# (.NET Core, Entity Framework)  
 - Mobile/Frontend: Flutter (self), React (collaborative team)
 - Databases: SQL Server (SSMS), PostgreSQL  
-- Infrastructure: Docker
+- Infrastructure: Docker, Azure (IaaS)
 - AI Engineering: Large Language Models, Fine-tuning (Transformers)
 
 ---
