@@ -1,24 +1,23 @@
 # Eric Zanardi | Full Stack Developer
 ### Founder at ZND — *From Factory Floor to the Cloud*
 
-🚀 Delivering robust, scalable solutions with Flask, Flutter, C#, ABAP and Java that connect complex systems and optimize business operations.
+🚀 Delivering robust, scalable solutions that connect complex systems and optimize business operations.
 
 ---
 
 ## About Me
 
-Experienced Full Stack Developer focused on enterprise applications for logistics, business management, and dynamic parameterization. Expertise in efficient backends, cross-platform frontends, and high-availability system integrations.
-
+Experienced Full Stack Developer focused on enterprise applications for logistics, business management, and dynamic parameterization.
 
 ---
 
 ## Core Technologies
 
-- Backend: Python (Flask, FastAPI, Transformers), Java (Spring), C# (.NET Core, Entity Framework)  
-- Mobile/Frontend: Flutter (self), React (collaborative team)  
+- Backend: Python (Flask), Java (Spring Boot), C# (.NET Core, Entity Framework)  
+- Mobile/Frontend: Flutter (self), React (collaborative team)
 - Databases: SQL Server (SSMS), PostgreSQL  
 - Infrastructure: Docker
-- AI Engineering: Large Language Models, Fine-tuning
+- AI Engineering: Large Language Models, Fine-tuning (Transformers)
 
 ---
 
@@ -33,10 +32,16 @@ An integrated solution for real-time monitoring of timber transportation logisti
 
 ### Corporate Parameterization Module  
 Tool for dynamic business rule management and configuration.  
-**Tech Stack:** Flutter, ASP.NET Core(Entity Framework), SQL Server  
+**Tech Stack:** Flutter Web, ASP.NET Core(Entity Framework), SQL Server  
 - Version-controlled CRUD operations  
 - Role-based access control  
-- Seamless mobile-backend integration  
+
+### Road Type Detection Microservice  
+Dockerized microservice that determines road type (asphalt or dirt) based on map coordinates using OpenStreetMap data.  
+**Tech Stack:** Flask, Leaflet.js, Docker, Overpass API (OpenStreetMap)  
+- Consumes Overpass API for geographic data extraction  
+- Interactive map frontend with Leaflet.js  
+- Containerized for scalable deployment and integration  
 
 ---
 
@@ -49,9 +54,10 @@ Tool for dynamic business rule management and configuration.
 
 ---
 
-## Contact
+## You can find me on:
 
 🔗 [LinkedIn](https://linkedin.com/in/ericzanardi)  
+🔗 [Twitter | X](https://x.com/ericznd)
 
 ---
 
