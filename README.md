@@ -1,24 +1,25 @@
-Hey! I'm a Full Stack Developer and currently working at:
+Hi! I'm a Experienced Full Stack Developer focused on enterprise applications for logistics, industrial processes, business management, and dynamic parameterization:
+
+## Experiences
 ### ZND as Software Engineer | Founder;
 ###  TecLink Automação Industrial as Developer.
 
-🚀 Delivering robust, scalable solutions that connect complex systems and optimize business operations.
+## Education
+### Interdisciplinary Bachelor of Science & Technology - UNIFESP;
+### Bachelor's Degree in Materials Engineering - UNIFESP.
+🚀  
 
----
-
-## About Me
-
-Experienced Full Stack Developer focused on enterprise applications for logistics, business management, and dynamic parameterization.
-> “More than code — I deliver real value through integrated and reliable solutions.”
 ---
 
 ## Core Technologies
 
-- Backend: Python (Flask), Java (Spring Boot), C# (.NET Core, Entity Framework)  
-- Mobile/Frontend: Flutter (self), React (collaborative team)
-- Databases: SQL Server (SSMS), PostgreSQL  
-- Infrastructure: Docker, Azure (IaaS)
-- AI Engineering: Large Language Models, Fine-tuning (Transformers)
+- Backend: Python (Flask), Java (Spring Boot), C# (.NET Core, Entity Framework); 
+- Mobile/Frontend: Flutter (independent), React (collaborative team);
+- Industrial Automation & IoT: Experience in industrial automation projects with IoT integration, working with industrial protocols (Serial|TCP), beacons, and edge computing architectures;
+- SAP: Experienced with MM | WM modules. Can code ABAP too.
+- Databases: SQL Server (SSMS), PostgreSQL; 
+- Infrastructure: Docker, Azure (IaaS);
+- AI Engineering: Fine-tuning (Transformers).
 
 --- 
 
