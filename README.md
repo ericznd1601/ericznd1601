@@ -1,6 +1,6 @@
 Hey! I'm a Full Stack Developer and currently working at:
-### ZND as Tech Lead | Founder;
-###  TecLink Automação Industrial as IT Consultant.
+### ZND as Software Engineer | Founder;
+###  TecLink Automação Industrial as Developer.
 
 🚀 Delivering robust, scalable solutions that connect complex systems and optimize business operations.
 
