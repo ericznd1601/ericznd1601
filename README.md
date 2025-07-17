@@ -1,13 +1,16 @@
 Hi! I'm a Experienced Full Stack Developer focused on enterprise applications for logistics, industrial processes, business management, and dynamic parameterization:
+--
 
 ## Experiences
 ### ZND as Software Engineer | Founder;
 ###  TecLink Automação Industrial as Developer.
 
+--
+
 ## Education
 ### Interdisciplinary Bachelor of Science & Technology - UNIFESP;
 ### Bachelor's Degree in Materials Engineering - UNIFESP.
-🚀  
+  
 
 ---
 
