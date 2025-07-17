@@ -3,13 +3,24 @@ Experienced Full Stack Developer focused on enterprise applications for logistic
 
 ---
 
+## 🛠️ Stacks
+
+- **Backend**: Python (Flask), Java (Spring Boot), C# (.NET Core, Entity Framework)  
+- **Mobile/Frontend**: Flutter (independent), React (collaborative team)  
+- **Industrial Automation & IoT**: Experience with beacons, Serial/TCP protocols, sensors, and edge architectures  
+- **SAP**: Experienced in MM | WM modules. ABAP development capabilities  
+- **Databases**: SQL Server (SSMS), PostgreSQL  
+- **Infrastructure**: Docker, Azure (IaaS)  
+- **AI Engineering**: Fine-tuning with Transformers
+
+---
+
 ## 🧑🏻‍💻 Experience
 
 - **ZND** – Software Engineer | Founder  
-  Full-stack project delivery, cloud infrastructure, LLM integrations, and AI engineering leadership.
 
-- **TecLink Automação Industrial** – Developer  
-  Development of industrial automation and IoT systems using protocols (Serial/TCP), edge computing, and embedded logic.
+- **TecLink Automação Industrial** – Full Stack Developer.
+- Providing development and consulting services for **Suzano Papel e Celulose**. Focused on systems integration, industrial process automation in their wood yard, and IoT solutions tailored to large-scale manufacturing environments.
 
 ---
 
@@ -17,20 +28,6 @@ Experienced Full Stack Developer focused on enterprise applications for logistic
 
 - **Interdisciplinary Bachelor of Science & Technology** – UNIFESP  
 - **Bachelor’s Degree in Materials Engineering** – UNIFESP
-
----
-
-## 🛠️ Core Technologies
-
-- **Backend**: Python (Flask), Java (Spring Boot), C# (.NET Core, Entity Framework)  
-- **Mobile/Frontend**: Flutter (independent), React (collaborative team)  
-- **Industrial Automation & IoT**: Experience with PLCs, beacons, Serial/TCP protocols, sensors, and edge architectures  
-- **SAP**: Experienced in MM | WM modules. ABAP development capabilities  
-- **Databases**: SQL Server (SSMS), PostgreSQL  
-- **Infrastructure**: Docker, Azure (IaaS)  
-- **AI Engineering**: Fine-tuning with Transformers (LLMs)
-
----
 
 ## 🌐 Connect with Me
 
