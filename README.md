@@ -5,10 +5,10 @@ Experienced Full Stack Developer focused on enterprise applications for logistic
 
 ## 🛠️ Stacks
 
-- **Backend**: Python (Flask), Java (Spring Boot), C# (.NET Core, Entity Framework)  
-- **Frontend (Web & Mobile)**: Flutter (solo development), React (collaborative front-end team) 
+- **Backend**: Python (Flask), Java (Spring Boot)  
+- **Frontend (Web & Mobile)**: Flutter
 - **Industrial Automation & IoT**: Experience with beacons, Serial/TCP protocols, sensors.
-- **SAP**: Experienced in MM | WM modules. ABAP development capabilities  
+- **SAP**: Experience in MM | WM modules. ABAP development capabilities  
 - **Databases**: SQL Server (SSMS), PostgreSQL  
 - **Infrastructure**: Docker, Azure (IaaS)  
 - **AI Engineering**: Fine-tuning with Transformers
