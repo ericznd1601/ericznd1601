@@ -32,6 +32,5 @@ Experienced Full Stack Developer focused on enterprise applications for logistic
 ## 🌐 Connect with Me
 
 - [LinkedIn](https://linkedin.com/in/ericzanardi)  
-- [Twitter / X](https://x.com/ericznd)
 
 ---
